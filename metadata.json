@@ -1,0 +1,6 @@
+{
+  "name": "SupportTech",
+  "description": "Application de ticket de support technique avec suivi par mail",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
